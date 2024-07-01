@@ -1,6 +1,5 @@
 par BOUNIF AKSIL/ REKBI SANA
 
-![Capture_decran_115](https://github.com/sana-rekbi/Site-web-de-festival-des-livres-/assets/138128268/9f30db75-401a-484c-8b11-3783d3cb54fd)
 ![Capture_decran_117](https://github.com/sana-rekbi/Site-web-de-festival-des-livres-/assets/138128268/2f015de3-8c8e-4238-93f2-d892f5a20189)
 ![Capture_decran_116](https://github.com/sana-rekbi/Site-web-de-festival-des-livres-/assets/138128268/ac820211-1ffe-463d-8419-a11352de14cf)
 ![Capture_decran_130](https://github.com/sana-rekbi/Site-web-de-festival-des-livres-/assets/138128268/d0b8ec2c-2deb-4149-84b3-06ae97dd9f81)
