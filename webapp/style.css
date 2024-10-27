@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url('https://i.ibb.co/4d8CYtM/background-header.jpg');/* Remplacez 'banniere' par le chemin de votre image */
+    background-size: cover;
+    color: #fff;
+    padding: 90px;
+}
+ 
+header h1 {
+    font-size: 50px;
+
+}
+
+header h4 {
+    margin-top: -20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.search-bar {
+    position: relative;
+}
+
+.search-bar input[type="text"] {
+    width: 250px;
+    height: 38px;
+    outline: none;
+    border: none;
+    padding: 17px;
+    border-radius: 40px;
+    color: #fff;
+    background-color: #2c2f34;
+    font-family: "Quicksand";
+}
+
+.search-bar button {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    color: #a2a3a5;
+    font-size: 16px;
+    position: absolute;
+    right: 35px;
+    bottom: 0px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.orange-icon svg {
+    fill: orange; /* ou bien color: orange; */
+}
+
+
+.nav-item {
+    position: relative;
+}
+
+.nav-item:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    height: 80%;
+    width: 1px;
+    background-color: #ccc;
+}
+
+.nav-link {
+    margin-right: 40px; /* Ajustez la marge selon vos préférences */
+}
+
+
+
+.btn-orange {
+    background-color: #f90;
+    border-color: #f90;
+}
+
+.btn-orange:hover {
+    background-color: #f70;
+    border-color: #f70;
+}
+
+.styled-form {
+    border: 2px solid #FFA500;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.styled-label {
+    font-weight: bold;
+}
+
+.styled-input {
+    border-color: #FFA500;
+}
+
+.styled-button {
+    background-color: #FFA500;
+    border-color: #FFA500;
+}
+
+.styled-button:hover {
+    background-color: #FF8C00;
+    border-color: #FF8C00;
+}
+
+
+.blue-icon {
+    color: blue; 
+}
+
+.orange-icon {
+    color: orange; 
+}
+
+#formRegister {
+    display: none;
+}
+
+
+
+
+
+
